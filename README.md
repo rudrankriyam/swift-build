@@ -1,4 +1,3 @@
-[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/swift-build&type=Date)](https://star-history.com/#rudrankriyam/swift-build&Date)
 
 Swift Build
 =======
@@ -51,3 +50,5 @@ well. For more, see the [Code of Conduct](https://swift.org/code-of-conduct/).
 License
 -------
 See https://swift.org/LICENSE.txt for license information.
+
+[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/swift-build&type=Date)](https://star-history.com/#rudrankriyam/swift-build&Date)
