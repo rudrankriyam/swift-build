@@ -1,3 +1,5 @@
+[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/swift-build&type=Date)](https://star-history.com/#rudrankriyam/swift-build&Date)
+
 Swift Build
 =======
 
